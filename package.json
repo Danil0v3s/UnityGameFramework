@@ -15,8 +15,5 @@
         "type": "git",
         "url": "https://github.com/def-not-a-game-studio/UnityGameFramework.git",
         "directory": "com.defnotagamestudio.unitygameframework"
-    },
-    "dependencies": {
-        "com.defnotagamestudio.gameframework": "https://github.com/def-not-a-game-studio/GameFramework.git"
     }
 }
